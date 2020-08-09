@@ -1,0 +1,23 @@
+Program files for DOS: ver026.zip (1.8MB)
+Note that this program is very old and is unlikely to run correctly on a recent Windows version.
+You may get a better result by running it with a DOS emulator like DOSBox
+
+Program files for Linux/X11: vertigo-0.26.tgz (1.7MB)
+
+Program files for BeOS: BeBits or Edge's software
+
+For unpacking in DOS/Windows, use e.g. PKZIP or WinZip .
+If you are using pkunzip for DOS, use the -d option.
+Unpacking in Linux is done by tar -zxvf vertigo-0.26.tgz
+
+Please read the installation instructions carefully.
+
+Download the source code src026.zip (1.6 MB).
+
+Read the included files "source.txt", "objects/objects.txt" and "airplane/airplane.txt" on how to proceed.
+Linux users should unpack the archive using unzip -La src026.zip
+
+Gregor Rozman has been so kind to make a program that translates a 3D object format file into source code for Vertigo 0.23. This may save you for a lot of work, if you want to create a new graphics object. I have not tested the program very well myself and neither do I have the source code, so please rely on the accompanying documentation and direct any questions to Gregor.
+
+Download Obj2Vertigo (90KB)
+Last updated August 20, 2003 by Anton Norup Sørensen
