@@ -1,3 +1,16 @@
+Vertigo is a public domain flight simulator, written by Anton Norup Sørensen.
+
+Emphasis is on realism of the flight-model, with several types of air- and space-crafts selectable.
+
+Latest News:
+
+20 August 2003:
+"Edge" has ported the sim to BeOS, encouraged by Ralf Schülke.
+
+10 April 2002:
+New version released. First fully functional version for Linux.
+Ported to using the Allegro and CGUI libraried exclusively. 
+
 Program files for DOS: ver026.zip (1.8MB)
 Note that this program is very old and is unlikely to run correctly on a recent Windows version.
 You may get a better result by running it with a DOS emulator like DOSBox
